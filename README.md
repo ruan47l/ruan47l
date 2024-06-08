@@ -1,4 +1,4 @@
-oi eu sou o ruan, estou interessado em aprender e espalhar meus projetos. aprendendo sobre desenvovilmento web.
+k
 
 <!---
 ruan47l/ruan47l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
