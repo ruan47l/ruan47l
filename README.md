@@ -1,6 +1,2 @@
-k
+Oi, sou o Ruan, estou interessado em aprender
 
-<!---
-ruan47l/ruan47l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
